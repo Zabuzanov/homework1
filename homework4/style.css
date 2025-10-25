@@ -1,0 +1,18 @@
+header {
+  height: 60px;
+  background: #ffa500;
+}
+a {
+  color: #000;
+}
+.jason {
+  background: #eac176;
+}
+footer {
+  background-color: #b27fff;
+  height: 300px;
+  color: #ffff;
+}
+footer a {
+  color: #fff;
+}
