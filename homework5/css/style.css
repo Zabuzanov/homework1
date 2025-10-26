@@ -1,0 +1,28 @@
+.test {
+font-family: "Open Sans", Arial, serif;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+font-style: italic;
+}
+
+.first {
+  font-weight: bolder;
+  text-decoration: line-through;
+}
+
+.second {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.three {
+  color: blueviolet;
+  word-spacing: 30px;
+  text-decoration: wavy overline;
+}
+
+.four {
+  letter-spacing: 5px;
+  text-decoration: underline double;
+}
