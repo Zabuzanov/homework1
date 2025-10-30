@@ -1,0 +1,33 @@
+body {
+  background: #393030;
+}
+
+p {
+  color: #fff;
+}
+
+.container {
+  position: relative;
+}
+
+.stick {
+  position: fixed;
+  bottom: 100px;
+  left: 50%;
+  margin-right: 50px;
+  width: 100vh;
+  min-height: 100px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.circle {
+  position: absolute;
+  bottom: 50%;
+  left: 10%;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background: #a73232;
+  z-index: 1;
+}
